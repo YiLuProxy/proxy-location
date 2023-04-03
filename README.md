@@ -1,5 +1,5 @@
 # YiLu Proxy Locations
-Here are some proxy locations that YiLu Proxy offers, including the USA, the UK, Korea, Germany, Japan, Vietnam, Australia, and so on.  
+Here are some proxy locations that [YiLu Proxy](https://yilu.us) offers, including the USA, the UK, Korea, Germany, Japan, Vietnam, Australia, and so on.  
 
 ## Locations 
 [USA proxy](https://yilu.us/countries/usa-proxy)  
